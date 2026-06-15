@@ -1,24 +1,35 @@
-# Research Notes
+# Security Research
 
 ## Overview
-Technical write-ups, case studies, and educational materials documenting security research, vulnerability analysis, and mitigation strategies. This repository serves as a knowledge base for both personal growth and community education.
+Security Research is the central knowledge base for technical write-ups, deep-dive analyses, and tactical documentation. This repository bridges the gap between theoretical concepts and real-world application, providing actionable intelligence for security professionals, researchers, and enthusiasts.
 
-**Status**: Growing Collection
+All content is intended for **educational purposes**, **threat intelligence development**, and **defensive strategy improvement**.
 
-## Content Types
--   **Vulnerability Analysis**: Deep dives into specific CVEs and how they work.
--   **Lab Reports**: Summaries of experiments conducted in isolated environments.
--   **Tutorials**: Step-by-step guides on setting up secure labs and defensive architectures.
--   **Opinion Pieces**: Commentary on digital sovereignty, surveillance, and internet freedom.
+## Scope of Research
+The resources provided here cover a wide spectrum of security domains, including but not limited to:
+-   **Vulnerability Analysis:** Detailed breakdowns of CVEs, exploit chains, and mitigation strategies.
+-   **Threat Intelligence:** Research on APT groups, malware families, and emerging attack vectors.
+-   **Lab Reports:** Documentation of experiments conducted in isolated, controlled environments.
+-   **Tactical Tutorials:** Step-by-step guides for building secure labs, deploying defenses, and conducting tests.
+-   **Industry Commentary:** Perspectives on digital sovereignty, surveillance trends, and internet freedom.
+-   **Tool Development:** Analysis of offensive and defensive tools from a researcher's perspective.
 
-## Purpose
-To bridge the gap between theoretical concepts and real-world application. All notes emphasize ethical behavior and the importance of defensive posture.
+Future updates will introduce advanced threat modeling frameworks, incident post-mortems, and red team blue team exercise documentation.
 
-## Access
-Content is organized by topic folders. Start with the `intro/` directory for an overview of the methodology used.
+## Philosophy
+Knowledge is power only when shared responsibly. This archive exists to elevate the security community by demystifying complex threats and providing clear, reproducible methodologies for defense. All content emphasizes ethical behavior, accuracy, and the importance of a proactive security posture.
+
+## Usage
+Navigate to the relevant category folder (e.g., `/vulnerabilities`, `/tactics`, `/analysis`) for specific documentation. Content is organized chronologically and thematically for easy reference.
+
+## Ethical Notice
+All research presented herein is for legitimate security education and defense. Do not use disclosed techniques for unauthorized access or malicious purposes. The author (`r4ttles`) assumes no liability for misuse of information contained in this repository.
 
 ## License Note
-**Restricted Educational License applies.** View and personal use permitted. **No redistribution, resale, or forking allowed.** See `LICENSE.md` for full details.
+**Restricted Educational License applies.** 
+Viewing and personal educational use are permitted. 
+**Commercial resale, rebranding, or repackaging without permission is strictly prohibited.** 
+See `LICENSE` for full details.
 
 ---
 *Last Updated: June 2026*
